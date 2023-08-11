@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_names">
+        <item>Haifa</item>
+        <item>shafa-amr</item>
+        <item>ibilin</item>
+        <item>tamra</item>
+        <item>um elfahim</item>
+        <item>nazarith</item>
+    </string-array>
+    <string-array name="items_details">
+        <item>about Haifa</item>
+        <item>about shafa-amr</item>
+        <item>about ibilin</item>
+        <item>about tamra</item>
+        <item>about um elfahim</item>
+        <item>about nazarith</item>
+    </string-array>
+</resources>
